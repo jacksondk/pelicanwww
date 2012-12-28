@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Articles Tagged: {{ tag }}</h1>
+
+<ul>
+  {% for article in articles %}
+  <li>{{ article.locale_date }} - <a href="/{{ article.url }}">{{ article.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% endblock %}

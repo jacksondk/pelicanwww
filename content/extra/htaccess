@@ -1,0 +1,7 @@
+##  Can be commented out if causes errors, see notes above.
+Options +FollowSymLinks
+
+#  mod_rewrite in use
+RewriteEngine On
+
+# TODO: Add redirect for old Drupal pages

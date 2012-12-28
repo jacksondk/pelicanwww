@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% import 'macros.html' as macros %}
+{% block content %}
+{{ macros.createInfo( article.locale_date, article.updated, article.author) }}
+<h1 class="title">{{ article.title }}</h1>
+<div class="entry-content">
+  {{ article.content }}
+</div>
+{% endblock %}

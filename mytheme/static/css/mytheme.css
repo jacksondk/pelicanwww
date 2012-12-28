@@ -1,0 +1,214 @@
+body {
+    font-family: sans-serif;
+    background: rgb(234, 234, 243);
+}
+
+#container {
+    margin: 0 auto;
+    width: 100%;
+    background: #fff;
+}
+
+#sitename a {
+    text-decoration: none;
+    font-size: 36pt;
+}
+
+#sitename a:hover {
+    text-decoration: none;
+}
+
+#header {
+    padding: 20px;
+}
+
+#header h1 { 
+    margin: 0; 
+    padding-left: 1em;
+}
+
+#navigation {
+    float: right;
+    width: 100%;
+}
+
+#navigation ul {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+#post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#post-list article {
+    border-bottom: 1px #ccc solid;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+#navigation ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+#navigation li a {
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    color: #a22;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+.createinfo {
+    float: right;
+    text-align: right;
+    margin-right: -40px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 50px;
+    background-color: rgb(204, 204, 223);
+    box-shadow: 2px 2px 8px #aaa;
+    -moz-box-shadow: 2px 2px 8px #aaa;
+    -webkit-box-shadow: 2px 2px 8px #aaa;
+}
+
+#content-container1 {	
+    float: left;
+    width: 100%;
+}
+
+#content-container2
+{
+    float: left;
+    width: 100%;
+}
+
+#section-navigation {
+	float: left;
+	width: 16%;
+	padding: 20px 0;
+	margin: 0 2%;
+	display: inline;
+}
+
+#section-navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#section-navigation ul li {
+    margin: 0 0 1em;
+    padding: 0;
+    list-style-type: none;
+}
+
+#maincontent {
+    background: white;
+    padding: 1em 1em 1.5em 3em;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 8px #aaa;
+    -webkit-box-shadow: 2px 2px 8px #aaa;
+    -moz-box-shadow: 2px 2px 8px #aaa;
+}
+
+
+.content1 {
+    float: left;
+    width: 100%;
+}
+
+.content2
+{
+    float: left;
+    width: 100%;
+}
+
+.left-column
+{
+	float: left;
+	width: 2%;
+	padding: 20px 0;
+	margin: 0 2%;
+	display: inline;
+}
+.main-column
+{
+    float: left;
+    width: 68%;
+    padding: 20px 0;
+    margin: 0 0 0 2%;
+}
+
+.right-column {
+    float: right;
+    width: 20%;
+    padding: 20px 0;
+    margin: 0 2% 0 0;
+    display: inline;
+}
+
+#content {
+
+}
+
+#content h2 { margin: 0; }
+
+#aside {
+    float: right;
+    width: 16%;
+    padding: 20px 0;
+    margin: 0 2% 0 0;
+    display: inline;
+}
+
+#aside h3 { margin: 0; }
+
+.footer {
+    text-align: center;
+    padding: 20px;
+}
+
+.pagelist {
+    margin: 0;
+    padding: 0;
+}
+
+.pagelist li {
+    list-style: none;
+}
+
+.tagcloud {
+    margin: 0;
+    padding: 0;
+}
+
+.tagcloud ul {
+    margin: 0;
+    padding: 0;
+}
+
+.tagcloud li {
+    list-style: none;
+    display: inline;
+}
+
+.tag-1 {
+    font-size: 120%;
+}
+.tag-2 {
+    font-size: 110%;
+}
+.tag-3 {
+    font-size: 100%;
+}
+.tag-4 {
+    font-size: 90%;
+}

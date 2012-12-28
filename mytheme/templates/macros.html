@@ -1,0 +1,9 @@
+{%- macro createInfo( created, updated, author ) %}
+<div class="createinfo">
+  Created {{ created }}<br/>
+  {% if updated -%}
+  Update {{ updated }}<br/>
+  {% endif -%}
+  By {{ author }}
+</div>
+{%- endmacro %}
