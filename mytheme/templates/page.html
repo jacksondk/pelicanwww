@@ -1,16 +1,12 @@
 {% extends "base.html" %}
+{% import 'macros.html' as macros %}
 {% block title %}{{ page.title }}{%endblock%}
 {% block content %}
-<div class="createinfo">
-  Created {{ page.locale_date }}<br/>
-  {% if page.updated -%}
-  Update {{ page.updated }}<br/>
-  {% endif -%}
-  By {{ page.author}}
-</div>
-
-<h1 class="title">{{ page.title }}</h1>
+<article>
+<h2 class="entry-title">{{ page.title }}</h2>
+{{ macros.createInfo( page.locale_date, page.updated, page.author) }}
 <div class="entry-content">
   {{ page.content }}
 </div>
+</article>
 {% endblock %}

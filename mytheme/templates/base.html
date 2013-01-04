@@ -78,7 +78,7 @@
             <li class="tag-{{ tag.1 }}"><a href="/tag/{{ tag.0.name.lower() }}.html">{{ tag.0 }}</a></li>
 	    {% endfor -%}
 	  </ul>
-	  <h2>Twitter</h2>
+	  <h2>Last Tweets</h2>
 <!-- Twitter -->
 	  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
@@ -91,8 +91,8 @@ new TWTR.Widget({
   height: 300,
   theme: {
     shell: {
-      background: '#382657',
-      color: '#ffffff'
+      background: '#bbc',
+      color: '#000'
     },
     tweets: {
       background: '#ffffff',
@@ -119,7 +119,9 @@ new TWTR.Widget({
       <div class="content2">
 	<div class="main-column">
 	  <address id="about" class="vcard body">
-            Powered by <a href="http://getpelican.com/">Pelican</a>, taking advantage of <a href="http://python.org">Python</a>.
+            Powered by a <a href="https://github.com/jacksondk/pelican">adjusted version</a>
+            of <a href="http://getpelican.com/">Pelican</a>, taking
+            advantage of <a href="http://python.org">Python</a>.
 	  </address><!-- /#about -->
 	</div><!-- /#contentinfo -->
 	<div class="right-column">

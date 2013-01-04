@@ -89,8 +89,8 @@ a {
     width: 100%;
 }
 
-div.entry-title {
-    
+.entry-title {
+    margin-bottom: 1px;
 }
 
 div.entry-info {
@@ -190,11 +190,8 @@ div.read-more {
 
 #aside h3 { margin: 0; }
 
-.footer {
-    text-align: center;
-    padding: 20px;
-}
 
+/* Page list */
 .pagelist {
     margin: 0;
     padding: 0;
@@ -204,6 +201,7 @@ div.read-more {
     list-style: none;
 }
 
+/* Tag cloud styling */
 .tagcloud {
     margin: 0;
     padding: 0;
@@ -230,4 +228,10 @@ div.read-more {
 }
 .tag-4 {
     font-size: 90%;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
 }
