@@ -89,6 +89,15 @@ a {
     width: 100%;
 }
 
+div.entry-title {
+    
+}
+
+div.entry-info {
+    font-size: 80%;
+    font-style: italic;
+}
+
 #content-container2
 {
     float: left;
@@ -96,17 +105,16 @@ a {
 }
 
 #section-navigation {
-	float: left;
-	width: 16%;
-	padding: 20px 0;
-	margin: 0 2%;
-	display: inline;
+    float: left;
+    width: 16%;
+    padding: 20px 0;
+    margin: 0 2%;
+    display: inline;
 }
 
-#section-navigation ul
-{
-	margin: 0;
-	padding: 0;
+#section-navigation ul {
+    margin: 0;
+    padding: 0;
 }
 
 #section-navigation ul li {
@@ -159,6 +167,12 @@ a {
     margin: 0 2% 0 0;
     display: inline;
 }
+
+div.read-more {
+    background: url(/theme/images/read_more.png) no-repeat left;
+    padding-left: 15px;
+}
+
 
 #content {
 

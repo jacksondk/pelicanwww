@@ -8,13 +8,17 @@
   <ul id="post-list">
     {% for article in articles_page.object_list %}        
     <li><article>
-	{{ macros.createInfo( article.locale_date, None, article.author ) }}
 	<h2 class="entry-title">
 	  <a href="{{ SITEURL }}/{{ article.url }}" 
 	     rel="bookmark" 
 	     title="Permalink to {{ article.title}}">{{ article.title }}</a>
 	</h2>
+	<div class="entry-info">Created {{ article.locale_date }}{% if article.updated -%}
+	  - last update {{ article.updated }}
+	  {% endif -%}
+	  by {{ article.author }} </div>
 	<div class="entry-content"> {{ article.summary }} </div>
+	<div class="read-more"><a href="{{ SITEURL }}/{{ article.url }}">Read more</a></div>
     </article></li>
     {% endfor %}
   </ul><!-- /#posts-list -->
