@@ -1,6 +1,11 @@
 body {
     font-family: sans-serif;
-    background: rgb(234, 234, 243);
+    background: #eee;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
 }
 
 #container {
@@ -73,7 +78,7 @@ body {
     padding-top: 3px;
     padding-bottom: 3px;
     padding-left: 50px;
-    background-color: rgb(204, 204, 223);
+    background-color: #ccc;
     box-shadow: 2px 2px 8px #aaa;
     -moz-box-shadow: 2px 2px 8px #aaa;
     -webkit-box-shadow: 2px 2px 8px #aaa;
@@ -142,7 +147,7 @@ body {
 .main-column
 {
     float: left;
-    width: 68%;
+    width: 65%;
     padding: 20px 0;
     margin: 0 0 0 2%;
 }
