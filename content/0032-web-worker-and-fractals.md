@@ -3,10 +3,11 @@ Author: Michael Jacobsen
 Date: 2012-02-26
 Tags: math, html5, programming
 
-# Web Workers
-
 A Web Worker makes it possible to run Javascript code without blocking
-the user interface. A Web Worker is created as follows
+the user interface. That is, computations can be made in the background
+without locking the user interface.
+
+A Web Worker is created as follows
 
 <pre>
 // Main script
