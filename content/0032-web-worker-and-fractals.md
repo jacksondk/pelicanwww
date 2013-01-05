@@ -9,7 +9,7 @@ without locking the user interface.
 
 A Web Worker is created as follows
 
-<pre>
+<pre class="prettyprint">
 // Main script
 var worker = new WebWorder( url );
 </pre>
@@ -25,7 +25,7 @@ inter-process communication. In order to receive a message from a Web
 Worker you attach to the onmessage event.
 
 
-<pre>
+<pre class="prettyprint">
 // Main script
 worker.onmessage = function( eventData ) {
 };
@@ -33,7 +33,7 @@ worker.onmessage = function( eventData ) {
 
 Similarly a worker can recieve messages with the onmessage event in its global scope
 
-<pre>
+<pre class="prettyprint">
 // Worker script
 onmessage = function( eventData ) {
 };
@@ -42,14 +42,14 @@ onmessage = function( eventData ) {
 In order to send messages the method postMessage is used. For the Web
 Worker the function exist on the global scope, that is,
 
-<pre>
+<pre class="prettyprint">
 // Worker script
 postMessage( data );
 </pre>
 
 The main script uses the postMessage method on the worker object, that is,
 
-<pre>
+<pre class="prettyprint">
 // Main script
 worker.postMessage( data );
 </pre>

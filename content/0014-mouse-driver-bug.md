@@ -40,7 +40,7 @@ from 2006 and Kensington has not fixed their drivers yet!
 The driver uses a 128 byte buffer to do something about the path of
 the program. When you use Click-Once (FarmGuard) or are in a subdirectory of
 
-<pre>
+<pre class="prettyprint">
 c:\Documents and Settings\user\Document\Visual Studio 2008\My Projects\.
 </pre> 
 

@@ -12,7 +12,7 @@ recursion.
 In the solution to Project Euler problem 7 I have the following
 function
 
-<pre>
+<pre class="prettyprint lang-ml">
 let rec findprime primes test =
     if isprime primes test then test
     else findprime primes (test+2)
@@ -23,7 +23,7 @@ the function and it is therefore a tail call. Using the tool <a
 href="">Reflector</a> it is possible to obtain a C# version of the
 program:
 
-<pre>
+<pre class="prettyprint">
 public static int findprime(FSharpList<int> primes, int test)
 {
     while (!isprime(primes, test))

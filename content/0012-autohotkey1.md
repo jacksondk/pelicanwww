@@ -16,7 +16,7 @@ Update: The functionality has now been integrated into Windows 7.
 keys. Each hot key can runs a command or a small script. My setup is
 currently as follows:
 
-<pre>
+<pre class="prettyprint">
 #Up::
 	WinMaximize,A
 return
