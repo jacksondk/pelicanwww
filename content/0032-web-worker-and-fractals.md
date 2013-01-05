@@ -86,7 +86,8 @@ set</a>
 Enough talk and code - let's see some pictures!
 
 Number of workers to use during computations
-<input type="text" value="2" id="workerCount" /><input id="render" type="button" value="Redraw" />
+<input type="text" value="2" id="workerCount" />
+<input id="render" type="button" value="Redraw" />
 
 <canvas id="fractal" width="700" height="600">This feature needs canvas support!</canvas>
 
@@ -101,9 +102,9 @@ along the edge of the Mandelbrot set.
 
 Duration of last Julia set computation <span id="juliaDuration"></span>ms
 
-<script type="text/javascript" src="/js/fractal/complex.js"></script>
+<script type="text/javascript" src="/static/js/fractal/complex.js"></script>
 
-<script type="text/javascript" src="/js/fractal/fractal.js"></script>
+<script type="text/javascript" src="/static/js/fractal/fractal.js"></script>
 
 <script type="text/javascript">
             $(document).ready(function () {

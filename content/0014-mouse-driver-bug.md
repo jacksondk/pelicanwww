@@ -11,7 +11,7 @@ suspected some permission problem but I could not find and thus fix
 it.
 
 Another program that I have helped develop, <a
-href="www.farmguard.com">FarmGuard</a>, had an even more bizarre
+href="http://www.farmguard.com">FarmGuard</a>, had an even more bizarre
 behaviour. It would run until I switched out of the program and back!
 That is,
 

@@ -37,7 +37,7 @@ EDITOR is set to vim.
 * [Tortoise SVN](http://tortoisesvn.tigris.org/) - I use Tortoise SVN
 when I need to inspect the log and the history of files.
 
-* [Winmerge](http://www.winmerge.org) - is used together with Tortoise
+* [Winmerge](http://winmerge.org) - is used together with Tortoise
 SVN to inspect changes in my/our source code.
 
 * [Skype](http://www.skype.com) - currently involved in a EU project

@@ -18,15 +18,15 @@ Tags: info
 * M.Sc in Engineering at the Tecnical University of Denmark (1995-2000). 
   The major projects were 
   * Master thesis: “Two-Grid Preconditioners for Discrete Ill-Posed Problems” 
-    (<a href="/Downloads/master-thesis.pdf">pdf</a>)
+    (<a href="/static/docs/master-thesis.pdf">pdf</a>)
   * Midway project: “Image Restoration using the PP-TSVD” 
-    (<a href="/Downloads/jacobsen98-image-restoration.pdf" title="Image Restoration">pdf</a>)
+    (<a href="/static/docs/jacobsen98-image-restoration.pdf" title="Image Restoration">pdf</a>)
   * “Fagpakke” project: “Fractal Image Compression”
 
 
 # Employment History
 
-* Developer at TNM Consult ApS (2004 - present ). Developing software
+* Developer at TNM Consult ApS (2004 - present). Developing software
   for Windows (Desktop and Mobile/PDA), embedded systems, definitions
   and specification of communication standards. Leader of the
   developer team.
@@ -38,10 +38,13 @@ Tags: info
 * Assistant teacher at the Technical University of Denmark in various
   courses (1996-2003):
  
- * Numerical Analysis
- * C++ programming
- * Optimization
- * Scientific Computing
+* Numerical Analysis
+
+* C++ programming
+
+* Optimization
+
+* Scientific Computing
 
 * Network and computer support at Hempel Marine Paints (1995-1997)
 
@@ -89,14 +92,14 @@ Currently I'm working with the following languages:
 # Publications
 
 * M.Sc Thesis: Two-Grid iterative methods for Ill-Posed Problems 
-  (<a href="/Downloads/master-thesis.pdf">pdf</a>)
+  (<a href="/static/docs/master-thesis.pdf">pdf</a>)
 
 * Ph.D. Thesis: Modular Regularization (<a
-  href="/Downloads/phd-thesis.pdf">pdf</a>)</li><li>M. Jacobsen,
+  href="/static/docs/phd-thesis.pdf">pdf</a>)</li><li>M. Jacobsen,
   P.C. Hansen, J.M. Rasmussen og Heino Sørensen: “The PPTSVD algorithm
   for image restoration problems”, in P.C. Hansen, B.H. Jacobsen og
   K. Mosegaard (eds.), Methods and Applications of Inversion,
-  Springer, 2000. (<a href="/Downloads/hansen00-pptsvd.pdf"
+  Springer, 2000. (<a href="/static/docs/hansen00-pptsvd.pdf"
   title="PPTSVD paper">pdf</a>)
 
 * M. Jacobsen, P.C. Hansen og M. Saunders: “Subspace preconditioned

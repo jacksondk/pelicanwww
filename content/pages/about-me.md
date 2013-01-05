@@ -67,4 +67,4 @@ inverse problems leads to jobs within the area of food.
 
 # CV
 
-You can find my <a href="/node/3">curriculum vitae here</a>.
+You can find my <a href="|filename|cv.md">curriculum vitae here</a>.

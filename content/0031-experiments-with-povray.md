@@ -14,7 +14,7 @@ In order to improve the look of a previous version of this site, I
 switched to a theme which included the option to rotate between a
 number of images in the header.
 
-<img src="/images/POVRay/header1.png"/>
+<img src="/static/images/POVRay/header1.png"/>
 
 
 The <a
@@ -37,12 +37,12 @@ one is fairly nice
 
 ## isosurf
 
-<img src="/images/POVRay/isosurf.png"/>
+<img src="/static/images/POVRay/isosurf.png"/>
 
 ## mj1
 
-<img src="/images/POVRay/mj1.png"/>
+<img src="/static/images/POVRay/mj1.png"/>
 
 ## mj2
 
-<img src="/images/POVRay/mj2.png"/>
+<img src="/static/images/POVRay/mj2.png"/>
