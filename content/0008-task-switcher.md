@@ -27,7 +27,7 @@ using the enter key. You can type text in order to limit the number of
 windows shown. The search searches the window title and the
 corresponding executable name (both in LOWER case).
 
-<img src="/images/TaskSwitcher/taskswitcherscreenshot.png">
+<img src="/static/images/TaskSwitcher/taskswitcherscreenshot.png">
 
 The program can be used with a couple of command line arguments:
 

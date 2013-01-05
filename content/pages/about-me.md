@@ -12,9 +12,9 @@ places that I use which also includes some kind of social dimension:
 
 <table>
 <tr><th>Email</th><td>mic.jacobsen@gmail.com</td></tr>
-<tr><th>Github</th><td><a href="http://www.github.com/jacksondk">Various spare time projects</a></td></tr>
+<tr><th>Github</th><td><a href="http://github.com/jacksondk">Various spare time projects</a></td></tr>
 <tr><th>Facebook</th><td><a href="http://www.facebook.com/michael.jacobsen">http://www.facebook.com/michael.jacobsen</a></td></tr>
-<tr><th>Twitter</th><td><a href="http://www.twitter.com/jackson_dk">@jackson_dk</a></td></tr>
+<tr><th>Twitter</th><td><a href="http://twitter.com/jackson_dk">@jackson_dk</a></td></tr>
 <tr><th>Skype</th><td>jackson_dk4799</td>
 <tr><th>Last.fm</th><td><a href="http://www.last.fm/user/jackson_dk">My scrobbling account</a></td><tr>
 <tr><th>Goodreads</th><td><a href="http://www.goodreads.com/user/show/5218285-michael-jacobsen">Books I've read, reading or intend to read</td></tr>
@@ -44,7 +44,7 @@ farmers.
 I made my Ph.D. thesis <a
 href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3380">Modular
 Regularization Algorithms</a> (<a
-href="/Downloads/phd-thesis.pdf">pdf</a>) at <a
+href="/static/docs/phd-thesis.pdf">pdf</a>) at <a
 href="http://www.imm.dtu.dk/">Informatics and Mathematical
 Modelling</a> at <a href="http://www.dtu.dk/">The Technical University
 of Denmark</a>. The work was supervised by <a
@@ -54,7 +54,7 @@ Hansen</a>.
 Per Christain Hansen also supervised my my Masters Thesis <a
 href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3380">Two-Grid
 Iterative Methods for Ill-Posed Problems</a> (<a
-href="/Downloads/master-thesis.pdf">pdf</a>). The software, <a
+href="/static/docs/master-thesis.pdf">pdf</a>). The software, <a
 href="http://www2.imm.dtu.dk/%7Etkj/MOOReTools/index.shtml">MOORe
 Tools</a>, created during the study is also available. After I
 finished my Ph.D, Toke Koldborg Jensen took over maintenance. However,
@@ -67,4 +67,4 @@ inverse problems leads to jobs within the area of food.
 
 # CV
 
-You can find my <a href="|filename|cv.md">curriculum vitae here</a>.
+You can find my [curriculum vitae here](|filename|cv.md).
