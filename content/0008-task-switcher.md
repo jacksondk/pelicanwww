@@ -48,7 +48,7 @@ The program can be used with a couple of command line arguments:
   * /help Show a small help  message.
 
 Observe, that this little utility goes very well with AutoHotKey [see
-previous article on AutoHotKey](//autohotkey1.html)
+previous article on AutoHotKey](|filename|0012-autohotkey1.md)
 
 # Other notes, license, .... 
 
