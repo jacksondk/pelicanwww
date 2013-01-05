@@ -50,7 +50,7 @@ a {
 
 #post-list article {
     border-bottom: 1px #ccc solid;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     margin-top: 5px;
 }
 
@@ -173,6 +173,11 @@ div.read-more {
     padding-left: 15px;
 }
 
+section#comments {
+    border-top: 1px #ccd solid;
+    margin-top: 15px;
+    padding-top: 15px;
+}
 
 #content {
 
