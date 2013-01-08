@@ -14,6 +14,10 @@ DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
 STATIC_PATHS = ['images','js','java','downloads','docs']
 
+FILENAME_METADATA = '(?P<serial>\d{4}).*'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = ARTICLE_URL
+
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
@@ -32,7 +36,6 @@ DEFAULT_PAGINATION = False
 THEME = './mytheme'
 
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
-                 ('extra/htaccess', '.htaccess'),
                  ('extra/favicon.ico', 'favicon.ico')
                  )
 
