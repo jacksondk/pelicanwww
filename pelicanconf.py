@@ -32,5 +32,7 @@ DEFAULT_PAGINATION = False
 THEME = './mytheme'
 
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
-                 ('extra/htaccess', '.htaccess'))
+                 ('extra/htaccess', '.htaccess'),
+                 ('extra/favicon.ico', 'favicon.ico')
+                 )
 

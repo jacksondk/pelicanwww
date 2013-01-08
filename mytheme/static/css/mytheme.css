@@ -1,11 +1,21 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background: #eee;
 }
 
 a {
     color: #000;
     text-decoration: none;
+}
+
+h1, h2, h3 {
+    font-family: 'Yanone Kaffesatz', sans-serif;
+}
+
+#sitename {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 120%;
 }
 
 #container {
@@ -132,7 +142,6 @@ div.entry-info {
     -moz-box-shadow: 2px 2px 8px #aaa;
 }
 
-
 .content1 {
     float: left;
     width: 100%;
@@ -144,20 +153,10 @@ div.entry-info {
     width: 100%;
 }
 
-.left-column
-{
-	float: left;
-	width: 2%;
-	padding: 20px 0;
-	margin: 0 2%;
-	display: inline;
-}
-.main-column
-{
+.main-column {
     float: left;
-    width: 65%;
-    padding: 20px 0;
-    margin: 0 0 0 2%;
+    width: 67%;
+    margin: 0 0 0 1%;
 }
 
 .right-column {
