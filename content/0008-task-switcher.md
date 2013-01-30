@@ -12,11 +12,13 @@ was not the best option.
 
 Hence, I ported the utitly to C++ with the MFC framework to help
 me. The result can be downloaded here:
-[TaskSwitcher32.exe](/static/downloads/TaskSwitcher32.exe). The executable is
-staticly linked with the MFC library and has no dependencies besides a
-standard Windows system. It has been tested on XP 32 bit and Vista 64
-bit. I see no reason for the utility not to work on other similar
-platforms.
+[TaskSwitcher32.exe](/static/downloads/TaskSwitcher32.exe). The
+executable is staticly linked with the MFC library and has no
+dependencies besides a standard Windows system. It has been tested on
+XP 32 bit and Vista 64 bit. I see no reason for the utility not to
+work on other similar platforms. The code is available for you to play
+with at [this GitHub
+repository](https://github.com/jacksondk/taskswitcher32).
 
 # Usage
 

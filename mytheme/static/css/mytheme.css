@@ -5,6 +5,11 @@ body {
 
 a {
     color: rgb(0, 0, 219);
+    text-decoration: none;
+}
+
+p a {
+    text-decoration: underline;
 }
 
 h1, h2, h3 {

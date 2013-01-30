@@ -6,7 +6,7 @@ Date: 2011-02-27
 How far can you see when you are, say, 2 meters high? Lets find out
 assuming that we stand on a perfect circle with perfect visibility
 ([and that we do not have
-refraction]("http://mintaka.sdsu.edu/GF/explain/atmos_refr/horizon.html").
+refraction]("http://mintaka.sdsu.edu/GF/explain/atmos_refr/horizon.html")).
 
 # The Math
 
