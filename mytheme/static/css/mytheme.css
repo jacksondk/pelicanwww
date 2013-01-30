@@ -4,8 +4,7 @@ body {
 }
 
 a {
-    color: #000;
-    text-decoration: none;
+    color: rgb(0, 0, 219);
 }
 
 h1, h2, h3 {
@@ -27,6 +26,7 @@ h1, h2, h3 {
 #sitename a {
     text-decoration: none;
     font-size: 36pt;
+    font-weight: 200;
 }
 
 #sitename a:hover {
