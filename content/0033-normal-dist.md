@@ -124,11 +124,11 @@ point \\( [x \, y ]\\) and then transformed by multiplicatilon by \\( S
 \\).
 
 
-<script type="text/javascript" src="/static/js/sylvester/sylvester.js"></script>
-<script type="text/javascript" src="/static/js/sylvester/matrix.js"></script>
-<script type="text/javascript" src="/static/js/sylvester/vector.js"></script>
-<script type="text/javascript" src="/static/js/data_analysis/dataanalysis.js"></script>
-<script type="text/javascript" src="/static/js/data_analysis/covariance.js"></script>
+<script type="text/javascript" src="/js/sylvester/sylvester.js"></script>
+<script type="text/javascript" src="/js/sylvester/matrix.js"></script>
+<script type="text/javascript" src="/js/sylvester/vector.js"></script>
+<script type="text/javascript" src="/js/data_analysis/dataanalysis.js"></script>
+<script type="text/javascript" src="/js/data_analysis/covariance.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
      initialize("gfx");

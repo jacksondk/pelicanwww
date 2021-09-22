@@ -15,7 +15,7 @@ profile at any point by means of a Partial Differential Equation
  
 <center> 
 <IMG  WIDTH="274" HEIGHT="76" BORDER="0"
- SRC="/static/images/Heat/heatpde.gif"
+ SRC="/images/Heat/heatpde.gif"
  ALT=" 
   u_t = \kappa^2 u_{xx}, \quad 0 &lt; x &lt; \infty, \quad 0 &lt; t &lt; ...
 ...0 \le x \le \infty, \\
@@ -29,7 +29,7 @@ initial temperature 0 everywhere. The solution is
 <center> 
 <IMG
  WIDTH="355" HEIGHT="46" BORDER="0"
- SRC="/static/images/Heat/heatsolution.gif"
+ SRC="/images/Heat/heatsolution.gif"
  ALT=" 
 u(x,t) = \frac{x}{2 \kappa \sqrt{\pi}}
 \int_0^t \frac{f(\...
@@ -49,7 +49,7 @@ inaccessible.
 <center> 
 <IMG
  WIDTH="660" HEIGHT="182" ALIGN="BOTTOM" BORDER="0"
- SRC="/static/images/Heat/heatsetupfigure.gif"> 
+ SRC="/images/Heat/heatsetupfigure.gif"> 
     <br> 
     <b> Figure 1: Illustration of forward and backward (inverse)
  problem. </b> 
@@ -110,7 +110,7 @@ Tikhonov. Notice that even with very little noise we get very bad
 results.
  
 <center> 
-<applet archive="/static/java/RegularizationDemoApplet.jar"
+<applet archive="/java/RegularizationDemoApplet.jar"
 code="RegularizationDemoApplet"
 width=730 height=450> </applet> 
 </center>

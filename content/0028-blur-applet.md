@@ -32,8 +32,8 @@ is blurred.
 <table> 
 <tr> <td align="center"> Point </td> 
      <td align="center">Blurred Point</td> </tr> 
-<tr> <td> <img src="/static/images/Blur/point.png"> </td> 
-     <td> <img src="/static/images/Blur/psf.png"> </td> </tr> 
+<tr> <td> <img src="/images/Blur/point.png"> </td> 
+     <td> <img src="/images/Blur/psf.png"> </td> </tr> 
 </table> 
 </center>
  
@@ -76,5 +76,5 @@ solution:
   least squares methods.
  
 <center> 
-  <applet archive="/static/java/BlurDemoApplet.jar" code="BlurDemoApplet" width=730 height=450> </applet> 
+  <applet archive="/java/BlurDemoApplet.jar" code="BlurDemoApplet" width=730 height=450> </applet> 
 </center>

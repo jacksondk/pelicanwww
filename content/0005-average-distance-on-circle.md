@@ -3,7 +3,7 @@ Author: Michael Jacobsen
 Date: 2008-09-03
 Tags: math
 
-<SCRIPT SRC="/static/js/raphael.js"></SCRIPT>
+<SCRIPT SRC="/js/raphael.js"></SCRIPT>
 
 What is the average distance between two points on a circle?
 

@@ -12,7 +12,7 @@ was not the best option.
 
 Hence, I ported the utitly to C++ with the MFC framework to help
 me. The result can be downloaded here:
-[TaskSwitcher32.exe](/static/downloads/TaskSwitcher32.exe). The
+[TaskSwitcher32.exe](/downloads/TaskSwitcher32.exe). The
 executable is staticly linked with the MFC library and has no
 dependencies besides a standard Windows system. It has been tested on
 XP 32 bit and Vista 64 bit. I see no reason for the utility not to
@@ -29,7 +29,7 @@ using the enter key. You can type text in order to limit the number of
 windows shown. The search searches the window title and the
 corresponding executable name (both in LOWER case).
 
-<img src="/static/images/TaskSwitcher/taskswitcherscreenshot.png">
+<img src="/images/TaskSwitcher/taskswitcherscreenshot.png">
 
 The program can be used with a couple of command line arguments:
 

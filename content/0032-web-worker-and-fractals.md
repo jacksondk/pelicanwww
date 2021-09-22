@@ -102,9 +102,9 @@ along the edge of the Mandelbrot set.
 
 Duration of last Julia set computation <span id="juliaDuration"></span>ms
 
-<script type="text/javascript" src="/static/js/fractal/complex.js"></script>
+<script type="text/javascript" src="/js/fractal/complex.js"></script>
 
-<script type="text/javascript" src="/static/js/fractal/fractal.js"></script>
+<script type="text/javascript" src="/js/fractal/fractal.js"></script>
 
 <script type="text/javascript">
             $(document).ready(function () {

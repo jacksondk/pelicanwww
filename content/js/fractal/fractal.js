@@ -1,8 +1,8 @@
 var jacksondk = jacksondk || {};
 
 jacksondk.workerPaths = {
-    "mandelbrot": "/static/js/fractal/mandel.js",
-    "julia": "/static/js/fractal/julia.js"
+    "mandelbrot": "/js/fractal/mandel.js",
+    "julia": "/js/fractal/julia.js"
 };
 
 jacksondk.Fractal = function (canvas, workerCount) {

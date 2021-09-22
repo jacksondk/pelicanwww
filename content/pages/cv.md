@@ -18,9 +18,9 @@ Tags: info
 * M.Sc in Engineering at the Tecnical University of Denmark (1995-2000). 
   The major projects were 
   * Master thesis: “Two-Grid Preconditioners for Discrete Ill-Posed Problems” 
-    (<a href="/static/docs/master-thesis.pdf">pdf</a>)
+    (<a href="/docs/master-thesis.pdf">pdf</a>)
   * Midway project: “Image Restoration using the PP-TSVD” 
-    (<a href="/static/docs/jacobsen98-image-restoration.pdf" title="Image Restoration">pdf</a>)
+    (<a href="/docs/jacobsen98-image-restoration.pdf" title="Image Restoration">pdf</a>)
   * “Fagpakke” project: “Fractal Image Compression”
 
 
@@ -92,14 +92,14 @@ Currently I'm working with the following languages:
 # Publications
 
 * M.Sc Thesis: Two-Grid iterative methods for Ill-Posed Problems 
-  (<a href="/static/docs/master-thesis.pdf">pdf</a>)
+  (<a href="/docs/master-thesis.pdf">pdf</a>)
 
 * Ph.D. Thesis: Modular Regularization (<a
-  href="/static/docs/phd-thesis.pdf">pdf</a>)</li><li>M. Jacobsen,
+  href="/docs/phd-thesis.pdf">pdf</a>)</li><li>M. Jacobsen,
   P.C. Hansen, J.M. Rasmussen og Heino Sørensen: “The PPTSVD algorithm
   for image restoration problems”, in P.C. Hansen, B.H. Jacobsen og
   K. Mosegaard (eds.), Methods and Applications of Inversion,
-  Springer, 2000. (<a href="/static/docs/hansen00-pptsvd.pdf"
+  Springer, 2000. (<a href="/docs/hansen00-pptsvd.pdf"
   title="PPTSVD paper">pdf</a>)
 
 * M. Jacobsen, P.C. Hansen og M. Saunders: “Subspace preconditioned

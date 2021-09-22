@@ -17,7 +17,7 @@ that the triangle (A,B,C) must be a right triangle where the angle at
 B where the line of sight meets the horizont must the right angle. The
 distance of the line of sight we call \(b\).
 
-<object data="/static/images/HowFarToSee/how-far-can-you-see.svg" width="400px" height="400px" type="image/svg+xml"></object>
+<object data="/images/HowFarToSee/how-far-can-you-see.svg" width="400px" height="400px" type="image/svg+xml"></object>
 
 Depending on the initial attack angle you end up with an extremely simple solution
 or a more complicated solution. I, of course, started out doing the complicated 

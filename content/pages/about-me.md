@@ -44,7 +44,7 @@ farmers.
 I made my Ph.D. thesis <a
 href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3380">Modular
 Regularization Algorithms</a> (<a
-href="/static/docs/phd-thesis.pdf">pdf</a>) at <a
+href="/docs/phd-thesis.pdf">pdf</a>) at <a
 href="http://www.imm.dtu.dk/">Informatics and Mathematical
 Modelling</a> at <a href="http://www.dtu.dk/">The Technical University
 of Denmark</a>. The work was supervised by <a
@@ -54,7 +54,7 @@ Hansen</a>.
 Per Christain Hansen also supervised my my Masters Thesis <a
 href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3380">Two-Grid
 Iterative Methods for Ill-Posed Problems</a> (<a
-href="/static/docs/master-thesis.pdf">pdf</a>). The software, <a
+href="/docs/master-thesis.pdf">pdf</a>). The software, <a
 href="http://www2.imm.dtu.dk/%7Etkj/MOOReTools/index.shtml">MOORe
 Tools</a>, created during the study is also available. After I
 finished my Ph.D, Toke Koldborg Jensen took over maintenance. However,
